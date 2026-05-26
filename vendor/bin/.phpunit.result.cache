@@ -1,1 +1,1 @@
-{"version":2,"defects":{"BookingServiceTest::testValidatePayment":8},"times":{"BookingServiceTest::testValidatePayment":0.07}}
+{"version":2,"defects":{"BookingServiceTest::testValidatePayment":8},"times":{"BookingServiceTest::testValidatePayment":0.07,"LoginServiceTest::testLoginBerhasil":0.101,"LoginServiceTest::testLoginGagal":0.098}}
